@@ -1,5 +1,8 @@
 package edu.cmu.cs.cs214.lab02.shapes;
 
+/**
+ * Тэгш өнцөгтийг дүрсэлсэн класс.
+ */
 public class Rectangle implements Shape {
     private final double height;
     private final double width;
