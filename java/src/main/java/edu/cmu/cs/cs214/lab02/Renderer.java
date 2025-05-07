@@ -3,6 +3,10 @@ package edu.cmu.cs.cs214.lab02;
 
 import edu.cmu.cs.cs214.lab02.shapes.Shape;
 
+/**
+ * Renderer класс нь дүрсийг дүрслэх үүрэгтэй.
+ * Shape интерфейсээс хамааралтай бөгөөд аливаа дүрсийг хүлээн авах боломжтой.
+ */
 public class Renderer {
     private final Shape shape;
 
